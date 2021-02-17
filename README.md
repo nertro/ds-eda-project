@@ -1,6 +1,5 @@
-# ds-project-template
-Template for creating ds simple projects 
-
+# First ds project at nf
+Exploring the Seattle housing market, to find the best options for my client, when and where to buy and sell houses.
 
 ## Requirements
 
