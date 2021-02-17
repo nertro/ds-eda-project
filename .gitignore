@@ -134,6 +134,9 @@ data/*.tsv
 data/*.zip
 data/*.gsv
 data/*.json
+data/*.md
 
 models/*.pickle
 models/*.pkl
+
+.vscode/
